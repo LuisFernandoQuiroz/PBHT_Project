@@ -29,4 +29,14 @@
     <servlet-name>db_In</servlet-name>
     <url-pattern>/db_In</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>db_Connect_Emp</display-name>
+    <servlet-name>db_Connect_Emp</servlet-name>
+    <servlet-class>Controller.db_Connect_Emp</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>db_Connect_Emp</servlet-name>
+    <url-pattern>/db_Connect_Emp</url-pattern>
+  </servlet-mapping>
 </web-app>
