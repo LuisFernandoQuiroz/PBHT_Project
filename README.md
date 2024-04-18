@@ -32,7 +32,7 @@ Aunque el procentage de mejora no es especifico al momento, se tiene entendido q
 ![Alt text](https://imgur.com/lmB0K5n.jpg)
 
 ### Wiki
-### Tabla de contenidos
+Tabla de contenidos
 - [Home](https://github.com/LuisFernandoQuiroz/PBHT_Project/wiki)
 - [Setup](https://github.com/LuisFernandoQuiroz/PBHT_Project/wiki/Setup)
 - [Uso y contribucion](https://github.com/LuisFernandoQuiroz/PBHT_Project/wiki/Uso-y-contribucion)
