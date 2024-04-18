@@ -31,3 +31,4 @@ Aunque el procentage de mejora no es especifico al momento, se tiene entendido q
 ### Arquitectura
 ![Alt text](https://imgur.com/lmB0K5n.jpg)
 
+### Wiki
